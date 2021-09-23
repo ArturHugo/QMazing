@@ -4,7 +4,6 @@
 
 **Departamento de Ciência da Computação**
 
-
 **CIC0193 - Fundamentos de Sistemas Inteligentes - 2021/1**
 
 **Alunos:**
